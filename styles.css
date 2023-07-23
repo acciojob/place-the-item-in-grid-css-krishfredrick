@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+holder{
+	grid-template-rows: repeat(2, 200px);
+}
